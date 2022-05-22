@@ -25,7 +25,7 @@ Pentru a verifica daca sarpele s-a hranit vedem daca acesta ajunge pe pozitia ac
 
 # Bibliografie
 
-[Led Matrix](https://docs.arduino.cc/built-in-examples/display/RowColumnScanning)
-[Joy Stick](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
-[Delta Time](https://forum.arduino.cc/t/calculating-delta-time/490002)
+* [Led Matrix](https://docs.arduino.cc/built-in-examples/display/RowColumnScanning)
+* [Joy Stick](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
+* [Delta Time](https://forum.arduino.cc/t/calculating-delta-time/490002)
 
