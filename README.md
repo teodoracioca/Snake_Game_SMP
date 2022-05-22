@@ -16,12 +16,14 @@ Pentru a putea misca sarpele avem nevoie sa ne plimbam pe cele doua axe: x si y.
 *	A treia conditie: daca vrem sa mergem in jos
 *	A patra conditie: daca vrem sa mergem in sus
 
-In functia Actualizare():
+- In functia Actualizare():
 Definim un nou cap al sarpelui care va fi de fapt capul acestuia.
 Verificam daca acesta iese din matrice: iesire dreapta – 8 si iesire stanga - -1, atunci acesta va reveni pe coloana 0 sau 8 de pe acelasi rand
 Acelasi principiu il vom folosi si pe axa y.
-Pentru a verifica daca sarpele se loveste de el vedem daca acesta ajunge cu capul pe o parte a corpului. Daca da, facem o pauza de o secunda si resetam matricea: ii dam hranei si sarpelui alte pozitii.
-Pentru a verifica daca sarpele s-a hranit vedem daca acesta ajunge pe pozitia acestuia. Daca da, acesta isi va creste lungimea si ii vom schimba pozitia marului, aceasta fiind aleasa random. Dupa atasam corpului sarpelui noul cap, urmand actualizarea matricei din nou cu noua lungime a sarpelui si noua pozitia a marului. Pentru a actualiza, matricea shiftam la dreapta numarul coloanei cu numarul liniei adica aprindem led-urile de pe matrice.
+- Pentru a verifica daca sarpele se loveste de el vedem daca acesta ajunge cu capul pe o parte a corpului. Daca da, facem o pauza de o secunda si resetam matricea: ii dam hranei si sarpelui alte pozitii.
+
+- Pentru a verifica daca sarpele s-a hranit vedem daca acesta ajunge pe pozitia acestuia. Daca da, acesta isi va creste lungimea si ii vom schimba pozitia marului, aceasta fiind aleasa random. Dupa atasam corpului sarpelui noul cap, urmand actualizarea matricei din nou cu noua lungime a sarpelui si noua pozitia a marului.
+- Pentru a actualiza, matricea shiftam la dreapta numarul coloanei cu numarul liniei adica aprindem led-urile de pe matrice.
 
 # Bibliografie
 
