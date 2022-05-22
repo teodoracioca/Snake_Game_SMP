@@ -5,7 +5,7 @@ Proiectul consta in implementarea jocului Snake cu ajutorul micrcontrollerul ATm
 
 Elemente componente:
 
-Micrcontrollerul ATmega328p 
-Modul Matrice LED max7219
-Modul Joystick PS2
+* Micrcontrollerul ATmega328p 
+* Modul Matrice LED max7219
+* Modul Joystick PS2
 
